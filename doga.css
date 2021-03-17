@@ -8,11 +8,12 @@ a:visited{
 a:link{
     color: white;
 }
-tr{
+.elso{
     width: 670px;
     border-collapse: collapse;
-    text-align: center;
-    margin: 2pt;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2pt solid black;
     padding: 2pt;
 }
 img{
@@ -20,4 +21,9 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.belso{
+    background-color: #485808;
+    border: 2pt solid black;
+    padding: 2pt;
 }
