@@ -1,0 +1,23 @@
+body{
+    background-color: #999999;
+    color: black;
+}
+a:visited{
+    color: white;
+}
+a:link{
+    color: white;
+}
+tr{
+    width: 670px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 2pt;
+    padding: 2pt;
+}
+img{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
