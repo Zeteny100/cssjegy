@@ -11,19 +11,23 @@ a:link{
 .elso{
     width: 670px;
     border-collapse: collapse;
-    margin-left: auto;
-    margin-right: auto;
-    border: 2pt solid black;
     padding: 2pt;
 }
 img{
-    margin: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .belso{
     background-color: #485808;
-    border: 2pt solid black;
     padding: 2pt;
+    text-align: center;
+    height: 60px;
+}
+h1{
+    color: white;
+}
+tr{
+    margin-left: auto;
+    margin-right: auto;
 }
